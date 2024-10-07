@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Hannah!
-- 👀 I’m interested in video games 🎮
-- 🌱 I’m currently learning C++ and C#
-- 💞️ I’m looking to collaborate on C# and C++ projects. 
+- I'm a Software Developer coding in C# .Net, JavaScript, TypeScript, Nuxt, Vue, and more.
 - 📫 How to reach me - HGoodall2@student.cccs.edu
 
 <!---
